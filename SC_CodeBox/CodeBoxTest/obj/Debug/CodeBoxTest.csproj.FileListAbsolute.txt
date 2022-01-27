@@ -1,0 +1,17 @@
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\CodeBoxTest.dll
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\CodeBoxTest.pdb
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\SC_.exe
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\SC_.pdb
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\SC_.exe.config
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\obj\Debug\CodeBoxTest.csproj.AssemblyReference.cache
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\obj\Debug\CodeBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\obj\Debug\CodeBoxTest.csproj.CopyComplete
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\obj\Debug\CodeBoxTest.dll
+C:\Users\bayokat\Documents\SC_CodeBox\CodeBoxTest\obj\Debug\CodeBoxTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\bayokat\Documents\SC_RecoverImage\SC_RecoverImage\bin\Debug\SC_RecoverImage.exe.config
+C:\Users\bayokat\Documents\SC_RecoverImage\SC_RecoverImage\bin\Debug\SC_RecoverImage.exe
+C:\Users\bayokat\Documents\SC_RecoverImage\SC_RecoverImage\bin\Debug\SC_RecoverImage.pdb
+C:\Users\bayokat\Documents\SC_RecoverImage\SC_RecoverImage\obj\Debug\SC_RecoverImage.csproj.AssemblyReference.cache
+C:\Users\bayokat\Documents\SC_RecoverImage\SC_RecoverImage\obj\Debug\SC_RecoverImage.Properties.Resources.resources
+C:\Users\bayokat\Documents\SC_RecoverImage\SC_RecoverImage\obj\Debug\SC_RecoverImage.csproj.GenerateResource.cache
+C:\Users\bayokat\Documents\SC_RecoverImage\SC_RecoverImage\obj\Debug\SC_RecoverImage.csproj.CoreCompileInputs.cache
+C:\Users\bayokat\Documents\SC_RecoverImage\SC_RecoverImage\obj\Debug\SC_RecoverImage.exe
+C:\Users\bayokat\Documents\SC_RecoverImage\SC_RecoverImage\obj\Debug\SC_RecoverImage.pdb

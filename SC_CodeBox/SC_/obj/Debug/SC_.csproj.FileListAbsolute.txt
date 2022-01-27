@@ -1,0 +1,7 @@
+C:\Users\bayokat\Documents\SC_CodeBox\SC_\obj\Debug\SC_.csproj.AssemblyReference.cache
+C:\Users\bayokat\Documents\SC_CodeBox\SC_\obj\Debug\SC_.csproj.CoreCompileInputs.cache
+C:\Users\bayokat\Documents\SC_CodeBox\SC_\bin\Debug\SC_.exe.config
+C:\Users\bayokat\Documents\SC_CodeBox\SC_\bin\Debug\SC_.exe
+C:\Users\bayokat\Documents\SC_CodeBox\SC_\bin\Debug\SC_.pdb
+C:\Users\bayokat\Documents\SC_CodeBox\SC_\obj\Debug\SC_.exe
+C:\Users\bayokat\Documents\SC_CodeBox\SC_\obj\Debug\SC_.pdb
