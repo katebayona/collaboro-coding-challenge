@@ -1,6 +1,8 @@
 ﻿using System.Drawing.Drawing2D;
 using System.Drawing;
 using System.Drawing.Imaging;
+using System.Windows.Forms;
+using System;
 
 namespace SC_RecoverImage
 {
@@ -8,14 +10,22 @@ namespace SC_RecoverImage
     {
         static void Main(string[] args)
         {
-            //get image
-            Bitmap img = SC_RecoverImage.Properties.Resources.secretcode; //define pixel data
-           
-            var recoveredImg = RecoverImage(img);
+            try
+            {
+                //get image
+                Bitmap img = SC_RecoverImage.Properties.Resources.secretcode; //define pixel data
 
-            //save file
-            string path = System.Environment.CurrentDirectory;
-            recoveredImg.Save(@path+"\\"+"recoveredImage.png");
+                var recoveredImg = RecoverImage(img);
+
+                //save file
+                string path = System.Environment.CurrentDirectory;
+                recoveredImg.Save(@path + "\\" + "recoveredImage.png");
+                MessageBox.Show("Image has been recovered and saved.", "Success");
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Problem recovering/saving image.", "Error" + e.Message);
+            }
         }
 
         public static Image RecoverImage(Bitmap image)
